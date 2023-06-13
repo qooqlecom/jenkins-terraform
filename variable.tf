@@ -11,7 +11,7 @@ variable instance_type {
 }
 
 
-variable az1 {
+variable availability_zone {
   type        = string
   default     = ""
   description = "description"
